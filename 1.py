@@ -5,6 +5,6 @@ str_case=list(str_join.lower())
 rev_str=str_case[::-1]
 
 if str_case==rev_str:
-    print ("응 맞아~")
+    print ("ture")
 else:
-    print ("응 아니야~")
+    print ("false")
